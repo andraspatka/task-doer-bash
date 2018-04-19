@@ -1,0 +1,68 @@
+05-04-18 12:24:02 started: doer.sh
+05-04-18 12:25:23 started: doer.sh
+05-04-18 12:25:23 Error inside copy:  dir4/dir2  not a directory or does not exist
+05-04-18 12:25:23 Error inside copy:  dir4/dir2  not a directory or does not exist
+05-04-18 12:25:56 started: doer.sh
+05-04-18 12:25:56 Error inside copy:  dir4/dir2  not a directory or does not exist
+05-04-18 12:25:56 Error inside copy:  dir4/dir2  not a directory or does not exist
+05-04-18 12:26:59 started: doer.sh
+05-04-18 12:26:59 Error inside copy:  dir4/dir2  not a directory or does not exist
+05-04-18 12:26:59 Error inside copy:  dir4/dir2  not a directory or does not exist
+05-04-18 12:29:17 started: doer.sh
+05-04-18 12:29:19 move: moved  dir4/dir2 to ./dir4/dir2
+05-04-18 12:29:22 copy: copied dir1 to dir4/dir1
+05-04-18 12:29:24 delete: deleted dir4/dir3
+05-04-18 12:30:15 started: doer.sh
+05-04-18 12:30:17 sync: copied  a.txt  to  dir3
+05-04-18 12:30:20 sync: copied  c.txt  to  dir3
+05-04-18 12:30:21 sync: copied  d.txt  to  dir1
+05-04-18 12:30:21 sync: copied  k.txt  to  dir1
+05-04-18 12:30:24 copy: copied dir1 to dir4/dir1
+05-04-18 12:30:24 Error inside delete  dir4/dir3  is not a directory or does not exist
+05-04-18 12:31:34 started: doer.sh
+05-04-18 12:31:36 sync: copied  d.txt  to  dir1
+05-04-18 12:31:36 sync: copied  k.txt  to  dir1
+05-04-18 12:31:38 copy: copied dir1 to dir4/dir1
+05-04-18 12:31:38 Error inside delete  dir4/dir3  is not a directory or does not exist
+05-04-18 12:32:37 started: doer.sh
+05-04-18 12:32:40 sync: copied  d.txt  to  dir1
+05-04-18 12:32:40 sync: copied  k.txt  to  dir1
+05-04-18 12:32:42 Error inside delete  dir4/dir3  is not a directory or does not exist
+19-04-18 15:31:26 started: doer.sh
+19-04-18 15:31:28 sync: copied  d.txt  to  dir1
+19-04-18 15:31:29 sync: copied  k.txt  to  dir1
+19-04-18 15:31:31 copy: copied dir1 to dir4/dir1
+19-04-18 15:31:31 Error inside delete  dir4/dir3  is not a directory or does not exist
+19-04-18 15:32:05 started: doer.sh
+19-04-18 15:32:05 sync: copied  d.txt  to  dir1
+19-04-18 15:32:05 sync: copied  k.txt  to  dir1
+19-04-18 15:32:14 Error inside delete  dir4/dir3  is not a directory or does not exist
+19-04-18 15:33:04 started: doer.sh
+19-04-18 15:33:09 delete: deleted dir4/dir3
+19-04-18 15:37:12 started: doer.sh
+19-04-18 15:37:12 sync: copied  d.txt  to  dir1
+19-04-18 15:37:12 sync: copied  k.txt  to  dir1
+19-04-18 15:38:02 started: doer.sh
+19-04-18 15:38:04 sync: copied  c.txt  to  dir3
+19-04-18 15:38:06 sync: copied  a.txt  to  dir1
+19-04-18 15:38:06 sync: copied  b.txt  to  dir1
+19-04-18 15:38:07 sync: copied  k.txt  to  dir1
+19-04-18 15:40:39 started: doer.sh
+19-04-18 15:40:40 sync: copied  a.txt  to  dir1
+19-04-18 15:40:40 sync: copied  b.txt  to  dir1
+19-04-18 15:40:41 sync: copied  k.txt  to  dir1
+19-04-18 15:41:42 started: doer.sh
+19-04-18 15:42:24 started: doer.sh
+19-04-18 15:42:42 started: doer.sh
+19-04-18 15:47:46 started: doer.sh
+19-04-18 15:48:24 started: doer.sh
+19-04-18 15:48:43 started: doer.sh
+19-04-18 15:48:50 started: doer.sh
+19-04-18 15:48:52 copy: copied dir3 to dir4/dir3
+19-04-18 15:49:22 started: doer.sh
+19-04-18 15:49:26 copy: copied dir3 to dir4/dir3
+19-04-18 15:49:26 delete: deleted dir4/dir3
+19-04-18 15:51:28 started: doer.sh
+19-04-18 15:51:30 copy: copied dir3 to dir4/dir3
+19-04-18 15:51:39 started: doer.sh
+19-04-18 15:51:40 copy: copied dir3 to dir4/dir3

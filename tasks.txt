@@ -1,0 +1,3 @@
+sync -i dir1 dir3
+copy -i dir3 dir4
+delete dir4/dir3
